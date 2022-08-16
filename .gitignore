@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# flask config
+src/config.py
+
+# mac
+.DS_Store

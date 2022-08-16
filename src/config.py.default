@@ -1,0 +1,4 @@
+class Config:
+   PROFILE_NAME = ''
+   REGION_NAME = ''
+   S3_BUCKET = ''
